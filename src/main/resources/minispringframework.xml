@@ -4,6 +4,6 @@
        xmlns:p="http://www.springframework.org/schema/p"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="userService" class="com.github.wenbo2018.minispringframework.test.UserService"/>
+    <bean id="userService" class="UserService"/>
 
 </beans>
